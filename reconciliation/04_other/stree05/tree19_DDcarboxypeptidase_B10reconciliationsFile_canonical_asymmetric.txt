@@ -1,0 +1,5 @@
+8:43,S,'60','39'@1:60_cluster_AsubtropicusNRRLB24665|cea326|0-196|8015|AsubtropicusNRRLB24665_3091_0800,7
+7:43,S,'60','39'@1;'39',TTD,'39',-1@0.5:39_cluster_UK68597|6cddbc|0-172|5029|UK68597_1903_0744,6
+6:'39',TTD,'39',-1@0.5;-1,TLFD,-1,36@0.5;36,S,32,35@1:11_cluster_AregGY080|1dd17e|0-157|1383|AregGY080_596_0777,5
+5:36,S,32,35@1;35,S,'05','14'@1:05_cluster_AbalhimycinaFH1894|4e04c6|0-140|527|AbalhimycinaFH1894_226_0777,14_cluster_Balhimycin|fb88a3|0-206|1788|Balhimycin_703_0777
+11_cluster_AregGY080|1dd17e|0-157|1383|AregGY080_596_0777:36,S,32,35@1;32,SL,30,'11'@1

@@ -1,0 +1,5 @@
+10:'05',T,'26','05'@0.023:2,9
+9:'05',T,'26','05'@0.023;'05',T,'60','05'@0.16:60_cluster_AsubtropicusNRRLB24665|1085f5|0-251|8011|AsubtropicusNRRLB24665_3087_0674,8
+8:'05',T,'60','05'@0.16;'05',T,'05','68'@0.45:05_cluster_AbalhimycinaFH1894|60a2cc|0-367|563|AbalhimycinaFH1894_262_0385,7
+7:'05',T,'05','68'@0.45;'68',D,'68','68'@1:68_cluster_HdaliensisNBRC106472.cluster001|3aca13|0-355|9239|HdaliensisNBRC106472_3571_0427,68_cluster_HdaliensisNBRC106472.cluster001|20f10b|0-312|9222|HdaliensisNBRC106472_3554_0525
+2:'05',T,'26','05'@0.023;'26',T,'71','26'@0.36:71_cluster_Kistamicin|ccb86d|0-534|9783|Kistamicin_3732_0121,26_cluster_KaridNRRLB16535chlor|7526ea|0-423|3408|KaridNRRLB16535chlor_1394_0252

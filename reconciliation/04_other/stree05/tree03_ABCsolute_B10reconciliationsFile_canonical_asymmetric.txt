@@ -1,0 +1,8 @@
+10:40,S,39,36@0.4:2,9
+9:40,S,39,36@0.4;36,S,32,35@0.091:60_cluster_AsubtropicusNRRLB24665|1085f5|0-251|8011|AsubtropicusNRRLB24665_3087_0674,8
+8:36,S,32,35@0.091;35,TTD,35,-1@0.046:05_cluster_AbalhimycinaFH1894|60a2cc|0-367|563|AbalhimycinaFH1894_262_0385,7
+7:35,TTD,35,-1@0.046;-1,TLFD,-1,'68'@0.38;'68',D,'68','68'@1:68_cluster_HdaliensisNBRC106472.cluster001|3aca13|0-355|9239|HdaliensisNBRC106472_3571_0427,68_cluster_HdaliensisNBRC106472.cluster001|20f10b|0-312|9222|HdaliensisNBRC106472_3554_0525
+05_cluster_AbalhimycinaFH1894|60a2cc|0-367|563|AbalhimycinaFH1894_262_0385:35,TTD,35,-1@0.046;35,SL,'14','05'@0.15
+60_cluster_AsubtropicusNRRLB24665|1085f5|0-251|8011|AsubtropicusNRRLB24665_3087_0674:36,S,32,35@0.091;32,TLTD,32,-1@0.046;-1,TLFD,-1,'60'@0.38
+2:40,S,39,36@0.4;39,S,'18','26'@0.13:71_cluster_Kistamicin|ccb86d|0-534|9783|Kistamicin_3732_0121,26_cluster_KaridNRRLB16535chlor|7526ea|0-423|3408|KaridNRRLB16535chlor_1394_0252
+71_cluster_Kistamicin|ccb86d|0-534|9783|Kistamicin_3732_0121:39,S,'18','26'@0.13;'18',TLTD,'18',-1@0.066;-1,TLFD,-1,'71'@0.37
