@@ -1,0 +1,920 @@
+Cluster 0000   length: 1
+		11773 * 49_cluster_WAC1438rc4d-2520_whole
+
+Cluster 0001   length: 1
+		11331 * 68_cluster_HdaliensisNBRC106472.cluster001-3547_whole
+
+Cluster 0002   length: 3
+		9614 * 56_cluster_WAC06369-2953_whole
+		4565 100.0 12_cluster_ArifDSM43936-1-661_whole
+		4055 99.9 12_cluster_ArifDSM43936-1-658_whole
+
+Cluster 0003   length: 1
+		9448 * 70_cluster_TLI55.cluster001-3659_whole
+
+Cluster 0004   length: 3
+		8986 * 20_cluster_Enduracidin-1063_whole
+		234 65.7 30_cluster_RamoEx-1569_whole
+		231 70.0 69_cluster_MchersinaDSM44151-3598_whole
+
+Cluster 0005   length: 1
+		8761 * 67_cluster_STLI053.cluster001-3498_whole
+
+Cluster 0006   length: 2
+		8746 * 69_cluster_MchersinaDSM44151-3597_whole
+		8695 65.1 30_cluster_RamoEx-1568_whole
+
+Cluster 0007   length: 1
+		8514 * 68_cluster_HdaliensisNBRC106472.cluster001-3548_whole
+
+Cluster 0008   length: 1
+		7944 * 34_cluster_SspDSM11171feglymcin-1733_whole
+
+Cluster 0009   length: 1
+		7784 * 49_cluster_WAC1438rc4d-2522_whole
+
+Cluster 0010   length: 1
+		7121 * 67_cluster_STLI053.cluster001-3497_whole
+
+Cluster 0011   length: 3
+		7001 * 69_cluster_MchersinaDSM44151-3596_whole
+		6943 67.0 20_cluster_Enduracidin-1062_whole
+		6893 67.4 30_cluster_RamoEx-1567_whole
+
+Cluster 0012   length: 2
+		6230 * 12_cluster_ArifDSM43936-1-659_whole
+		6206 100.0 56_cluster_WAC06369-2950_whole
+
+Cluster 0013   length: 1
+		5447 * 34_cluster_SspDSM11171feglymcin-1732_whole
+
+Cluster 0014   length: 1
+		5386 * 49_cluster_WAC1438rc4d-2521_whole
+
+Cluster 0015   length: 2
+		4961 * 57_cluster_WAC06725-2978_whole
+		4961 99.2 59_cluster_WAC06783-3059_whole
+
+Cluster 0016   length: 8
+		4924 * 19_cluster_complestatin-1007_whole
+		4904 94.8 54_cluster_WAC05379-1-2851_whole
+		4901 94.2 61_cluster_FNTE-3137_whole
+		4898 94.1 43_cluster_WAC01325-2080_whole
+		1531 65.9 19_cluster_complestatin-1006_whole
+		1513 66.6 61_cluster_FNTE-3136_whole
+		1513 66.2 43_cluster_WAC01325-2079_whole
+		758 73.0 54_cluster_WAC05379-1-2849_whole
+
+Cluster 0017   length: 3
+		4708 * 31_cluster_SluteocolorNRBC13826-1608_whole
+		4708 98.7 32_cluster_Ssilaceus-1-1651_whole
+		1151 79.8 35_cluster_SspNRRLS1521-1-1757_whole
+
+Cluster 0018   length: 6
+		4694 * 50_cluster_WAC01529-2567_whole
+		4656 77.8 13_cluster_AspOK074cluster1-690_whole
+		4635 75.8 31_cluster_SluteocolorNRBC13826-1610_whole
+		3577 68.9 35_cluster_SspNRRLS1521-1-1759_whole
+		3376 73.6 32_cluster_Ssilaceus-1-1654_whole
+		1021 82.2 32_cluster_Ssilaceus-1-1655_whole
+
+Cluster 0019   length: 1
+		4643 * 42_cluster_WAC00631-2042_whole
+
+Cluster 0020   length: 8
+		4616 * 66_cluster_SspCNY243.cluster001-3438_whole
+		4611 94.4 63_cluster_SspCNQ525.cluster001-3272_whole
+		4611 86.8 33_cluster_SspCNQ509-1694_whole
+		4607 86.4 62_cluster_SspCNQ329.cluster001-3216_whole
+		4607 97.1 64_cluster_SspCNQ865.cluster001-3328_whole
+		4605 94.0 65_cluster_SspCNT371.cluster001-3384_whole
+		4602 88.0 58_cluster_WAC06738cluster004-3023_whole
+		1531 78.7 63_cluster_SspCNQ525.cluster001-3271_whole
+
+Cluster 0021   length: 40
+		4133 * 36_cluster_TEG-1787_whole
+		4111 75.2 24_cluster_esnapd26-1220_whole
+		4109 80.3 47_cluster_WAC1420-2418_whole
+		4102 77.9 29_cluster_pekiskomycin-1529_whole
+		4100 76.5 04_cluster_AazureaDSM43854-159_whole
+		4087 65.3 10_cluster_ArectNRRLB16090-520_whole
+		4085 78.0 48_cluster_WAC1424cluster109-2483_whole
+		4083 77.7 01_cluster_A40926-23_whole
+		4081 77.8 28_cluster_NcoxDSM45129-1495_whole
+		4077 79.4 14_cluster_Balhimycin-709_whole
+		4077 79.6 05_cluster_AbalhimycinaFH1894-231_whole
+		4077 85.9 16_cluster_CA878-836_whole
+		4077 81.9 18_cluster_Chloroeremomycin-1-961_whole
+		4077 81.9 26_cluster_KaridNRRLB16535chlor-1355_whole
+		4074 79.4 15_cluster_CA37-764_whole
+		4071 79.6 39_cluster_UK68597-1912_whole
+		4067 76.6 38_cluster_Teicoplanin2-1872_whole
+		4067 76.5 37_cluster_Teicoplanin-1821_whole
+		4067 73.6 17_cluster_CA915-904_whole
+		4066 75.8 02_cluster_A47934-65_whole
+		4063 77.1 11_cluster_AregGY080-602_whole
+		4061 74.4 60_cluster_AsubtropicusNRRLB24665-3100_whole
+		4061 75.1 07_cluster_AkerFH1893nogabecin-340_whole
+		4056 76.1 09_cluster_AOHO0100074-462_whole
+		4051 75.3 51_cluster_WAC4169cluster051-2638_whole
+		4050 75.0 40_cluster_Vancomycin-1956_whole
+		4048 76.4 03_cluster_AalbaDSM44262-96_whole
+		4025 76.8 44_cluster_WAC1375-2129_whole
+		4022 77.1 46_cluster_WAC1416cluster068-2306_whole
+		4017 76.3 45_cluster_WAC1376cluster143-2261_whole
+		3996 76.9 21_cluster_esnapd15-1082_whole
+		3996 75.4 08_cluster_AlurRistocetin-429_whole
+		3994 75.6 53_cluster_WAC4197cluster073-2789_whole
+		3994 75.6 25_cluster_JPLW01000007-1283_whole
+		3994 75.6 27_cluster_KF882511-Ristocetin-1416_whole
+		3994 75.4 06_cluster_Ajap-Ristocetin-286_whole
+		3993 75.4 52_cluster_WAC4182cluster089-2741_whole
+		3988 75.6 55_cluster_WAC05977-2904_whole
+		3983 76.9 41_cluster_VEG-1991_whole
+		1604 74.1 22_cluster_esnapd16-1-1157_whole
+
+Cluster 0022   length: 5
+		3758 * 50_cluster_WAC01529-2568_whole
+		3743 80.4 35_cluster_SspNRRLS1521-1-1760_whole
+		3735 79.8 31_cluster_SluteocolorNRBC13826-1611_whole
+		3735 80.0 32_cluster_Ssilaceus-1-1656_whole
+		3734 80.3 13_cluster_AspOK074cluster1-691_whole
+
+Cluster 0023   length: 1
+		3748 * 50_cluster_WAC01529-2565_whole
+
+Cluster 0024   length: 2
+		3635 * 56_cluster_WAC06369-2952_whole
+		3365 100.0 12_cluster_ArifDSM43936-1-657_whole
+
+Cluster 0025   length: 1
+		3619 * 71_cluster_Kistamicin-3712_whole
+
+Cluster 0026   length: 1
+		3470 * 70_cluster_TLI55.cluster001-3658_whole
+
+Cluster 0027   length: 1
+		3412 * 34_cluster_SspDSM11171feglymcin-1734_whole
+
+Cluster 0028   length: 7
+		3376 * 62_cluster_SspCNQ329.cluster001-3213_whole
+		3373 83.4 64_cluster_SspCNQ865.cluster001-3325_whole
+		3373 83.3 65_cluster_SspCNT371.cluster001-3381_whole
+		3370 83.3 63_cluster_SspCNQ525.cluster001-3269_whole
+		3319 83.5 66_cluster_SspCNY243.cluster001-3435_whole
+		3240 83.0 58_cluster_WAC06738cluster004-3020_whole
+		3237 83.0 33_cluster_SspCNQ509-1691_whole
+
+Cluster 0029   length: 29
+		3165 * 14_cluster_Balhimycin-708_whole
+		3156 84.7 18_cluster_Chloroeremomycin-1-960_whole
+		3156 84.7 26_cluster_KaridNRRLB16535chlor-1354_whole
+		3156 99.8 05_cluster_AbalhimycinaFH1894-230_whole
+		3155 82.9 11_cluster_AregGY080-601_whole
+		3152 80.7 51_cluster_WAC4169cluster051-2640_whole
+		3150 81.0 40_cluster_Vancomycin-1955_whole
+		3150 67.9 24_cluster_esnapd26-1219_whole
+		3149 81.4 09_cluster_AOHO0100074-461_whole
+		3140 69.2 47_cluster_WAC1420-2415_whole
+		3129 80.0 03_cluster_AalbaDSM44262-95_whole
+		2097 67.9 01_cluster_A40926-14_whole
+		2093 67.3 28_cluster_NcoxDSM45129-1493_whole
+		2082 72.1 07_cluster_AkerFH1893nogabecin-338_whole
+		2077 70.2 46_cluster_WAC1416cluster068-2304_whole
+		2077 76.8 36_cluster_TEG-1784_whole
+		2075 70.0 44_cluster_WAC1375-2127_whole
+		2068 71.3 04_cluster_AazureaDSM43854-157_whole
+		2066 71.9 41_cluster_VEG-1989_whole
+		2062 69.7 52_cluster_WAC4182cluster089-2743_whole
+		2061 68.9 53_cluster_WAC4197cluster073-2787_whole
+		2060 70.0 08_cluster_AlurRistocetin-431_whole
+		2059 68.7 25_cluster_JPLW01000007-1281_whole
+		2059 68.7 27_cluster_KF882511-Ristocetin-1414_whole
+		2058 69.9 55_cluster_WAC05977-2902_whole
+		2053 70.7 45_cluster_WAC1376cluster143-2263_whole
+		1857 73.8 16_cluster_CA878-833_whole
+		1466 66.5 29_cluster_pekiskomycin-1527_whole
+		241 75.1 16_cluster_CA878-834_whole
+
+Cluster 0030   length: 2
+		3136 * 57_cluster_WAC06725-2976_whole
+		3120 98.8 59_cluster_WAC06783-3057_whole
+
+Cluster 0031   length: 1
+		3126 * 68_cluster_HdaliensisNBRC106472.cluster001-3532_whole
+
+Cluster 0032   length: 1
+		2615 * 42_cluster_WAC00631-2040_whole
+
+Cluster 0033   length: 1
+		2290 * 13_cluster_AspOK074cluster1-687_whole
+
+Cluster 0034   length: 1
+		2285 * 22_cluster_esnapd16-1-1156_whole
+
+Cluster 0035   length: 5
+		2239 * 43_cluster_WAC01325-2081_whole
+		2172 73.1 54_cluster_WAC05379-1-2852_whole
+		2164 96.1 19_cluster_complestatin-1008_whole
+		2152 95.3 61_cluster_FNTE-3138_whole
+		482 95.4 54_cluster_WAC05379-1-2853_whole
+
+Cluster 0036   length: 1
+		2235 * 42_cluster_WAC00631-2043_whole
+
+Cluster 0037   length: 7
+		2189 * 62_cluster_SspCNQ329.cluster001-3217_whole
+		2187 89.7 64_cluster_SspCNQ865.cluster001-3329_whole
+		2187 89.6 66_cluster_SspCNY243.cluster001-3439_whole
+		2181 88.9 33_cluster_SspCNQ509-1695_whole
+		2181 89.5 58_cluster_WAC06738cluster004-3024_whole
+		2178 89.7 65_cluster_SspCNT371.cluster001-3385_whole
+		2178 89.2 63_cluster_SspCNQ525.cluster001-3273_whole
+
+Cluster 0038   length: 2
+		2185 * 57_cluster_WAC06725-2979_whole
+		2185 99.3 59_cluster_WAC06783-3060_whole
+
+Cluster 0039   length: 1
+		2136 * 67_cluster_STLI053.cluster001-3496_whole
+
+Cluster 0040   length: 2
+		2134 * 05_cluster_AbalhimycinaFH1894-260_whole
+		430 99.8 14_cluster_Balhimycin-738_whole
+
+Cluster 0041   length: 1
+		2131 * 69_cluster_MchersinaDSM44151-3595_whole
+
+Cluster 0042   length: 4
+		2123 * 54_cluster_WAC05379-1-2847_whole
+		2118 92.7 43_cluster_WAC01325-2078_whole
+		2116 93.3 19_cluster_complestatin-1005_whole
+		2116 92.5 61_cluster_FNTE-3135_whole
+
+Cluster 0043   length: 1
+		2101 * 20_cluster_Enduracidin-1061_whole
+
+Cluster 0044   length: 14
+		2084 * 60_cluster_AsubtropicusNRRLB24665-3098_whole
+		2084 81.1 15_cluster_CA37-762_whole
+		2084 74.5 22_cluster_esnapd16-1-1153_whole
+		2084 80.7 39_cluster_UK68597-1909_whole
+		2076 74.4 38_cluster_Teicoplanin2-1870_whole
+		2076 74.3 37_cluster_Teicoplanin-1819_whole
+		2071 74.1 21_cluster_esnapd15-1080_whole
+		2070 71.4 02_cluster_A47934-63_whole
+		2068 65.1 10_cluster_ArectNRRLB16090-519_whole
+		2062 66.7 06_cluster_Ajap-Ristocetin-284_whole
+		2054 74.5 48_cluster_WAC1424cluster109-2485_whole
+		1701 67.5 29_cluster_pekiskomycin-1526_whole
+		1163 65.7 17_cluster_CA915-902_whole
+		1053 72.5 17_cluster_CA915-901_whole
+
+Cluster 0045   length: 2
+		1933 * 46_cluster_WAC1416cluster068-2349_whole
+		1930 97.3 45_cluster_WAC1376cluster143-2217_whole
+
+Cluster 0046   length: 40
+		1887 * 60_cluster_AsubtropicusNRRLB24665-3101_whole
+		1882 77.2 08_cluster_AlurRistocetin-428_whole
+		1875 84.5 15_cluster_CA37-765_whole
+		1873 77.8 47_cluster_WAC1420-2419_whole
+		1871 81.9 17_cluster_CA915-905_whole
+		1871 76.0 29_cluster_pekiskomycin-1530_whole
+		1870 85.0 39_cluster_UK68597-1913_whole
+		1870 75.4 28_cluster_NcoxDSM45129-1496_whole
+		1869 77.4 18_cluster_Chloroeremomycin-1-962_whole
+		1869 80.8 16_cluster_CA878-837_whole
+		1866 80.5 21_cluster_esnapd15-1083_whole
+		1866 75.3 51_cluster_WAC4169cluster051-2637_whole
+		1866 73.7 04_cluster_AazureaDSM43854-160_whole
+		1866 75.4 09_cluster_AOHO0100074-463_whole
+		1866 75.5 40_cluster_Vancomycin-1957_whole
+		1865 77.2 41_cluster_VEG-1992_whole
+		1865 85.1 38_cluster_Teicoplanin2-1873_whole
+		1864 75.1 07_cluster_AkerFH1893nogabecin-341_whole
+		1864 77.9 36_cluster_TEG-1788_whole
+		1864 77.1 02_cluster_A47934-66_whole
+		1863 77.7 24_cluster_esnapd26-1221_whole
+		1863 74.8 01_cluster_A40926-24_whole
+		1860 85.0 37_cluster_Teicoplanin-1822_whole
+		1860 77.4 26_cluster_KaridNRRLB16535chlor-1356_whole
+		1858 75.7 11_cluster_AregGY080-603_whole
+		1858 76.9 05_cluster_AbalhimycinaFH1894-232_whole
+		1858 76.8 14_cluster_Balhimycin-710_whole
+		1856 74.3 03_cluster_AalbaDSM44262-97_whole
+		1856 79.9 10_cluster_ArectNRRLB16090-521_whole
+		1853 77.0 55_cluster_WAC05977-2905_whole
+		1853 77.1 52_cluster_WAC4182cluster089-2740_whole
+		1853 77.1 53_cluster_WAC4197cluster073-2790_whole
+		1853 77.1 06_cluster_Ajap-Ristocetin-288_whole
+		1853 77.2 25_cluster_JPLW01000007-1284_whole
+		1853 77.2 27_cluster_KF882511-Ristocetin-1417_whole
+		1853 77.8 44_cluster_WAC1375-2130_whole
+		1833 79.1 48_cluster_WAC1424cluster109-2482_whole
+		1827 77.5 46_cluster_WAC1416cluster068-2307_whole
+		1827 77.7 45_cluster_WAC1376cluster143-2259_whole
+		1749 80.1 22_cluster_esnapd16-1-1158_whole
+
+Cluster 0047   length: 1
+		1765 * 71_cluster_Kistamicin-3713_whole
+
+Cluster 0048   length: 1
+		1680 * 71_cluster_Kistamicin-3710_whole
+
+Cluster 0049   length: 1
+		1617 * 23_cluster_esnapd22-1164_whole
+
+Cluster 0050   length: 2
+		1577 * 56_cluster_WAC06369-2951_whole
+		340 100.0 12_cluster_ArifDSM43936-1-660_whole
+
+Cluster 0051   length: 1
+		1562 * 42_cluster_WAC00631-2041_whole
+
+Cluster 0052   length: 7
+		1559 * 66_cluster_SspCNY243.cluster001-3436_whole
+		1546 86.4 62_cluster_SspCNQ329.cluster001-3214_whole
+		1545 96.2 63_cluster_SspCNQ525.cluster001-3270_whole
+		1545 95.3 65_cluster_SspCNT371.cluster001-3382_whole
+		1545 97.3 64_cluster_SspCNQ865.cluster001-3326_whole
+		1544 87.2 33_cluster_SspCNQ509-1692_whole
+		1530 88.2 58_cluster_WAC06738cluster004-3021_whole
+
+Cluster 0053   length: 2
+		1550 * 59_cluster_WAC06783-3058_whole
+		1520 98.9 57_cluster_WAC06725-2977_whole
+
+Cluster 0054   length: 6
+		1538 * 50_cluster_WAC01529-2566_whole
+		1521 77.5 31_cluster_SluteocolorNRBC13826-1609_whole
+		1087 76.6 32_cluster_Ssilaceus-1-1653_whole
+		871 68.3 13_cluster_AspOK074cluster1-689_whole
+		484 77.3 35_cluster_SspNRRLS1521-1-1758_whole
+		354 80.8 32_cluster_Ssilaceus-1-1652_whole
+
+Cluster 0055   length: 6
+		1533 * 33_cluster_SspCNQ509-1693_whole
+		1532 82.0 62_cluster_SspCNQ329.cluster001-3215_whole
+		1531 82.0 64_cluster_SspCNQ865.cluster001-3327_whole
+		1531 81.8 65_cluster_SspCNT371.cluster001-3383_whole
+		1528 83.8 66_cluster_SspCNY243.cluster001-3437_whole
+		1527 91.7 58_cluster_WAC06738cluster004-3022_whole
+
+Cluster 0056   length: 1
+		1524 * 71_cluster_Kistamicin-3711_whole
+
+Cluster 0057   length: 12
+		1501 * 15_cluster_CA37-763_whole
+		1499 78.5 60_cluster_AsubtropicusNRRLB24665-3099_whole
+		1467 71.3 02_cluster_A47934-64_whole
+		1463 77.0 48_cluster_WAC1424cluster109-2484_whole
+		1369 80.4 39_cluster_UK68597-1910_whole
+		1345 74.3 21_cluster_esnapd15-1081_whole
+		1068 77.9 36_cluster_TEG-1785_whole
+		1058 68.9 04_cluster_AazureaDSM43854-158_whole
+		1057 77.3 16_cluster_CA878-835_whole
+		1055 69.3 07_cluster_AkerFH1893nogabecin-339_whole
+		206 80.7 22_cluster_esnapd16-1-1154_whole
+		148 80.4 39_cluster_UK68597-1911_whole
+
+Cluster 0058   length: 1
+		1303 * 23_cluster_esnapd22-1167_whole
+
+Cluster 0059   length: 1
+		1177 * 20_cluster_Enduracidin-1070_whole
+
+Cluster 0060   length: 17
+		1125 * 44_cluster_WAC1375-2128_whole
+		1063 71.9 28_cluster_NcoxDSM45129-1494_whole
+		1061 75.2 37_cluster_Teicoplanin-1820_whole
+		1061 75.3 38_cluster_Teicoplanin2-1871_whole
+		1056 70.4 41_cluster_VEG-1990_whole
+		1050 80.3 25_cluster_JPLW01000007-1282_whole
+		1050 80.3 27_cluster_KF882511-Ristocetin-1415_whole
+		1050 80.6 06_cluster_Ajap-Ristocetin-285_whole
+		1049 78.0 52_cluster_WAC4182cluster089-2742_whole
+		1043 72.5 01_cluster_A40926-13_whole
+		1036 99.1 46_cluster_WAC1416cluster068-2305_whole
+		1036 95.7 45_cluster_WAC1376cluster143-2262_whole
+		1035 70.7 17_cluster_CA915-903_whole
+		1031 80.7 53_cluster_WAC4197cluster073-2788_whole
+		1025 76.2 08_cluster_AlurRistocetin-430_whole
+		1025 76.4 55_cluster_WAC05977-2903_whole
+		861 71.4 22_cluster_esnapd16-1-1155_whole
+
+Cluster 0061   length: 1
+		1051 * 30_cluster_RamoEx-1566_whole
+
+Cluster 0062   length: 1
+		1051 * 35_cluster_SspNRRLS1521-1-1756_whole
+
+Cluster 0063   length: 1
+		988 * 67_cluster_STLI053.cluster001-3476_whole
+
+Cluster 0064   length: 1
+		927 * 69_cluster_MchersinaDSM44151-3600_whole
+
+Cluster 0065   length: 1
+		891 * 30_cluster_RamoEx-1571_whole
+
+Cluster 0066   length: 1
+		876 * 23_cluster_esnapd22-1166_whole
+
+Cluster 0067   length: 1
+		859 * 20_cluster_Enduracidin-1065_whole
+
+Cluster 0068   length: 1
+		840 * 13_cluster_AspOK074cluster1-686_whole
+
+Cluster 0069   length: 3
+		815 * 67_cluster_STLI053.cluster001-3485_whole
+		808 66.8 20_cluster_Enduracidin-1054_whole
+		444 66.4 30_cluster_RamoEx-1560_whole
+
+Cluster 0070   length: 1
+		794 * 68_cluster_HdaliensisNBRC106472.cluster001-3530_whole
+
+Cluster 0071   length: 25
+		790 * 13_cluster_AspOK074cluster1-675_whole
+		784 74.5 32_cluster_Ssilaceus-1-1643_whole
+		784 74.3 31_cluster_SluteocolorNRBC13826-1600_whole
+		775 65.5 34_cluster_SspDSM11171feglymcin-1722_whole
+		758 74.8 50_cluster_WAC01529-2557_whole
+		715 79.0 35_cluster_SspNRRLS1521-1-1748_whole
+		477 70.4 62_cluster_SspCNQ329.cluster001-3203_whole
+		471 73.6 02_cluster_A47934-53_whole
+		464 71.7 58_cluster_WAC06738cluster004-3012_whole
+		464 73.6 63_cluster_SspCNQ525.cluster001-3260_whole
+		464 73.2 65_cluster_SspCNT371.cluster001-3372_whole
+		464 73.2 64_cluster_SspCNQ865.cluster001-3316_whole
+		464 73.2 66_cluster_SspCNY243.cluster001-3426_whole
+		463 73.2 33_cluster_SspCNQ509-1682_whole
+		448 72.6 37_cluster_Teicoplanin-1846_whole
+		447 70.0 17_cluster_CA915-934_whole
+		445 72.5 39_cluster_UK68597-1939_whole
+		441 72.8 15_cluster_CA37-802_whole
+		441 71.0 69_cluster_MchersinaDSM44151-3584_whole
+		441 71.7 21_cluster_esnapd15-1107_whole
+		429 72.1 49_cluster_WAC1438rc4d-2516_whole
+		419 71.4 22_cluster_esnapd16-1-1140_whole
+		412 77.2 70_cluster_TLI55.cluster001-3670_whole
+		410 71.5 10_cluster_ArectNRRLB16090-545_whole
+		365 70.0 38_cluster_Teicoplanin2-1897_whole
+
+Cluster 0072   length: 1
+		617 * 13_cluster_AspOK074cluster1-688_whole
+
+Cluster 0073   length: 3
+		598 * 37_cluster_Teicoplanin-1836_whole
+		598 100.0 38_cluster_Teicoplanin2-1887_whole
+		584 83.2 21_cluster_esnapd15-1096_whole
+
+Cluster 0074   length: 1
+		588 * 67_cluster_STLI053.cluster001-3492_whole
+
+Cluster 0075   length: 1
+		587 * 30_cluster_RamoEx-1580_whole
+
+Cluster 0076   length: 27
+		587 * 36_cluster_TEG-1804_whole
+		582 85.2 11_cluster_AregGY080-617_whole
+		581 83.0 14_cluster_Balhimycin-724_whole
+		581 83.2 05_cluster_AbalhimycinaFH1894-246_whole
+		580 87.6 18_cluster_Chloroeremomycin-1-978_whole
+		580 87.6 26_cluster_KaridNRRLB16535chlor-1371_whole
+		580 88.6 16_cluster_CA878-855_whole
+		578 83.0 52_cluster_WAC4182cluster089-2723_whole
+		578 83.0 08_cluster_AlurRistocetin-412_whole
+		578 83.4 09_cluster_AOHO0100074-477_whole
+		578 85.7 24_cluster_esnapd26-1233_whole
+		578 81.6 29_cluster_pekiskomycin-1543_whole
+		578 82.4 55_cluster_WAC05977-2921_whole
+		578 83.4 40_cluster_Vancomycin-1970_whole
+		578 82.9 03_cluster_AalbaDSM44262-110_whole
+		578 83.0 51_cluster_WAC4169cluster051-2624_whole
+		578 86.5 47_cluster_WAC1420-2432_whole
+		577 84.3 04_cluster_AazureaDSM43854-179_whole
+		577 83.0 25_cluster_JPLW01000007-1300_whole
+		577 83.0 27_cluster_KF882511-Ristocetin-1434_whole
+		577 82.4 07_cluster_AkerFH1893nogabecin-355_whole
+		577 84.3 45_cluster_WAC1376cluster143-2244_whole
+		577 83.0 06_cluster_Ajap-Ristocetin-305_whole
+		577 82.9 53_cluster_WAC4197cluster073-2806_whole
+		577 89.1 41_cluster_VEG-2012_whole
+		577 83.7 44_cluster_WAC1375-2145_whole
+		577 83.7 46_cluster_WAC1416cluster068-2322_whole
+
+Cluster 0077   length: 1
+		584 * 69_cluster_MchersinaDSM44151-3609_whole
+
+Cluster 0078   length: 1
+		522 * 05_cluster_AbalhimycinaFH1894-276_whole
+
+Cluster 0079   length: 1
+		506 * 13_cluster_AspOK074cluster1-685_whole
+
+Cluster 0080   length: 2
+		504 * 32_cluster_Ssilaceus-1-1637_whole
+		504 99.6 31_cluster_SluteocolorNRBC13826-1595_whole
+
+Cluster 0081   length: 36
+		472 * 31_cluster_SluteocolorNRBC13826-1603_whole
+		472 99.8 32_cluster_Ssilaceus-1-1646_whole
+		461 80.5 50_cluster_WAC01529-2560_whole
+		460 78.6 35_cluster_SspNRRLS1521-1-1751_whole
+		454 66.5 12_cluster_ArifDSM43936-1-652_whole
+		454 66.5 56_cluster_WAC06369-2945_whole
+		449 77.5 13_cluster_AspOK074cluster1-678_whole
+		438 69.5 02_cluster_A47934-56_whole
+		438 68.3 48_cluster_WAC1424cluster109-2461_whole
+		435 73.3 34_cluster_SspDSM11171feglymcin-1725_whole
+		434 66.0 62_cluster_SspCNQ329.cluster001-3206_whole
+		434 67.4 65_cluster_SspCNT371.cluster001-3375_whole
+		434 67.1 66_cluster_SspCNY243.cluster001-3429_whole
+		434 67.4 64_cluster_SspCNQ865.cluster001-3319_whole
+		434 70.5 14_cluster_Balhimycin-735_whole
+		434 68.6 28_cluster_NcoxDSM45129-1480_whole
+		434 70.5 05_cluster_AbalhimycinaFH1894-257_whole
+		434 69.1 01_cluster_A40926-5_whole
+		434 68.0 33_cluster_SspCNQ509-1685_whole
+		434 66.7 63_cluster_SspCNQ525.cluster001-3263_whole
+		433 70.0 21_cluster_esnapd15-1103_whole
+		433 67.8 39_cluster_UK68597-1945_whole
+		433 69.9 37_cluster_Teicoplanin-1842_whole
+		433 69.9 38_cluster_Teicoplanin2-1893_whole
+		433 66.4 17_cluster_CA915-941_whole
+		433 66.7 22_cluster_esnapd16-1-1148_whole
+		433 69.7 15_cluster_CA37-799_whole
+		432 69.7 24_cluster_esnapd26-1239_whole
+		432 68.1 29_cluster_pekiskomycin-1549_whole
+		432 75.5 70_cluster_TLI55.cluster001-3673_whole
+		432 68.6 18_cluster_Chloroeremomycin-1-988_whole
+		432 68.6 26_cluster_KaridNRRLB16535chlor-1381_whole
+		432 71.3 47_cluster_WAC1420-2438_whole
+		429 66.4 71_cluster_Kistamicin-3720_whole
+		427 67.6 11_cluster_AregGY080-628_whole
+		426 67.7 16_cluster_CA878-867_whole
+
+Cluster 0082   length: 1
+		472 * 67_cluster_STLI053.cluster001-3509_whole
+
+Cluster 0083   length: 7
+		469 * 57_cluster_WAC06725-2988_whole
+		469 99.6 59_cluster_WAC06783-3069_whole
+		455 68.3 19_cluster_complestatin-1017_whole
+		452 73.6 42_cluster_WAC00631-2058_whole
+		443 69.0 54_cluster_WAC05379-1-2862_whole
+		434 70.2 43_cluster_WAC01325-2089_whole
+		420 68.7 61_cluster_FNTE-3147_whole
+
+Cluster 0084   length: 31
+		465 * 36_cluster_TEG-1802_whole
+		457 82.3 44_cluster_WAC1375-2143_whole
+		453 83.7 06_cluster_Ajap-Ristocetin-303_whole
+		440 88.0 40_cluster_Vancomycin-1968_whole
+		440 85.5 25_cluster_JPLW01000007-1298_whole
+		438 88.9 18_cluster_Chloroeremomycin-1-976_whole
+		438 88.9 26_cluster_KaridNRRLB16535chlor-1369_whole
+		434 88.7 09_cluster_AOHO0100074-475_whole
+		434 87.6 08_cluster_AlurRistocetin-414_whole
+		434 88.2 03_cluster_AalbaDSM44262-108_whole
+		434 85.9 55_cluster_WAC05977-2919_whole
+		434 88.0 14_cluster_Balhimycin-722_whole
+		434 92.2 16_cluster_CA878-853_whole
+		434 87.1 07_cluster_AkerFH1893nogabecin-353_whole
+		433 86.6 04_cluster_AazureaDSM43854-177_whole
+		428 88.8 51_cluster_WAC4169cluster051-2626_whole
+		428 86.0 27_cluster_KF882511-Ristocetin-1432_whole
+		428 84.3 28_cluster_NcoxDSM45129-1477_whole
+		428 86.9 52_cluster_WAC4182cluster089-2725_whole
+		428 75.5 71_cluster_Kistamicin-3717_whole
+		428 87.9 05_cluster_AbalhimycinaFH1894-244_whole
+		428 86.2 11_cluster_AregGY080-615_whole
+		419 84.7 01_cluster_A40926-1_whole
+		417 88.5 48_cluster_WAC1424cluster109-2467_whole
+		417 86.1 46_cluster_WAC1416cluster068-2320_whole
+		417 86.8 53_cluster_WAC4197cluster073-2804_whole
+		417 86.8 45_cluster_WAC1376cluster143-2246_whole
+		417 89.9 41_cluster_VEG-2010_whole
+		417 86.1 29_cluster_pekiskomycin-1540_whole
+		402 88.8 24_cluster_esnapd26-1231_whole
+		402 89.3 47_cluster_WAC1420-2429_whole
+
+Cluster 0085   length: 1
+		459 * 42_cluster_WAC00631-2053_whole
+
+Cluster 0086   length: 1
+		458 * 10_cluster_ArectNRRLB16090-581_whole
+
+Cluster 0087   length: 1
+		444 * 23_cluster_esnapd22-1172_whole
+
+Cluster 0088   length: 2
+		442 * 69_cluster_MchersinaDSM44151-3586_whole
+		432 65.3 67_cluster_STLI053.cluster001-3488_whole
+
+Cluster 0089   length: 1
+		436 * 69_cluster_MchersinaDSM44151-3579_whole
+
+Cluster 0090   length: 2
+		433 * 10_cluster_ArectNRRLB16090-554_whole
+		361 65.1 68_cluster_HdaliensisNBRC106472.cluster001-3550_whole
+
+Cluster 0091   length: 1
+		419 * 20_cluster_Enduracidin-1052_whole
+
+Cluster 0092   length: 1
+		417 * 49_cluster_WAC1438rc4d-2510_whole
+
+Cluster 0093   length: 17
+		408 * 40_cluster_Vancomycin-1981_whole
+		408 92.9 09_cluster_AOHO0100074-488_whole
+		408 97.8 51_cluster_WAC4169cluster051-2613_whole
+		408 88.0 03_cluster_AalbaDSM44262-121_whole
+		405 92.1 55_cluster_WAC05977-2932_whole
+		405 91.4 08_cluster_AlurRistocetin-401_whole
+		405 91.1 52_cluster_WAC4182cluster089-2711_whole
+		404 90.1 44_cluster_WAC1375-2152_whole
+		404 95.0 07_cluster_AkerFH1893nogabecin-366_whole
+		404 96.3 25_cluster_JPLW01000007-1311_whole
+		404 96.3 27_cluster_KF882511-Ristocetin-1445_whole
+		404 95.8 06_cluster_Ajap-Ristocetin-316_whole
+		404 90.3 46_cluster_WAC1416cluster068-2329_whole
+		404 95.8 53_cluster_WAC4197cluster073-2817_whole
+		404 89.9 04_cluster_AazureaDSM43854-190_whole
+		385 90.6 45_cluster_WAC1376cluster143-2237_whole
+		376 84.0 41_cluster_VEG-2023_whole
+
+Cluster 0094   length: 1
+		386 * 20_cluster_Enduracidin-1053_whole
+
+Cluster 0095   length: 1
+		382 * 05_cluster_AbalhimycinaFH1894-218_whole
+
+Cluster 0096   length: 14
+		373 * 17_cluster_CA915-914_whole
+		369 71.8 06_cluster_Ajap-Ristocetin-311_whole
+		369 71.3 41_cluster_VEG-2018_whole
+		369 71.3 04_cluster_AazureaDSM43854-185_whole
+		369 72.4 16_cluster_CA878-862_whole
+		369 72.9 08_cluster_AlurRistocetin-406_whole
+		369 72.7 03_cluster_AalbaDSM44262-117_whole
+		369 71.8 25_cluster_JPLW01000007-1306_whole
+		369 71.8 27_cluster_KF882511-Ristocetin-1440_whole
+		369 71.8 53_cluster_WAC4197cluster073-2812_whole
+		369 71.8 18_cluster_Chloroeremomycin-1-984_whole
+		369 71.8 26_cluster_KaridNRRLB16535chlor-1377_whole
+		369 73.2 07_cluster_AkerFH1893nogabecin-362_whole
+		369 71.0 11_cluster_AregGY080-624_whole
+
+Cluster 0097   length: 1
+		365 * 23_cluster_esnapd22-1173_whole
+
+Cluster 0098   length: 2
+		348 * 45_cluster_WAC1376cluster143-2220_whole
+		342 98.2 46_cluster_WAC1416cluster068-2346_whole
+
+Cluster 0099   length: 1
+		329 * 54_cluster_WAC05379-1-2850_whole
+
+Cluster 0100   length: 1
+		329 * 15_cluster_CA37-773_whole
+
+Cluster 0101   length: 1
+		326 * 15_cluster_CA37-776_whole
+
+Cluster 0102   length: 1
+		326 * 70_cluster_TLI55.cluster001-3681_whole
+
+Cluster 0103   length: 7
+		325 * 16_cluster_CA878-861_whole
+		325 82.2 07_cluster_AkerFH1893nogabecin-361_whole
+		325 86.2 18_cluster_Chloroeremomycin-1-983_whole
+		325 86.2 26_cluster_KaridNRRLB16535chlor-1376_whole
+		323 77.8 40_cluster_Vancomycin-1976_whole
+		323 77.5 51_cluster_WAC4169cluster051-2618_whole
+		321 84.6 55_cluster_WAC05977-2926_whole
+
+Cluster 0104   length: 1
+		309 * 10_cluster_ArectNRRLB16090-561_whole
+
+Cluster 0105   length: 1
+		308 * 54_cluster_WAC05379-1-2848_whole
+
+Cluster 0106   length: 1
+		306 * 49_cluster_WAC1438rc4d-2505_whole
+
+Cluster 0107   length: 1
+		295 * 68_cluster_HdaliensisNBRC106472.cluster001-3565_whole
+
+Cluster 0108   length: 1
+		294 * 49_cluster_WAC1438rc4d-2541_whole
+
+Cluster 0109   length: 4
+		286 * 69_cluster_MchersinaDSM44151-3599_whole
+		274 83.9 30_cluster_RamoEx-1570_whole
+		274 70.8 67_cluster_STLI053.cluster001-3475_whole
+		274 80.3 20_cluster_Enduracidin-1064_whole
+
+Cluster 0110   length: 1
+		280 * 05_cluster_AbalhimycinaFH1894-220_whole
+
+Cluster 0111   length: 43
+		278 * 12_cluster_ArifDSM43936-1-653_whole
+		278 100.0 56_cluster_WAC06369-2946_whole
+		273 73.2 28_cluster_NcoxDSM45129-1479_whole
+		271 69.4 71_cluster_Kistamicin-3721_whole
+		269 74.0 14_cluster_Balhimycin-736_whole
+		269 74.0 05_cluster_AbalhimycinaFH1894-258_whole
+		268 73.9 67_cluster_STLI053.cluster001-3489_whole
+		268 71.6 21_cluster_esnapd15-1104_whole
+		268 72.0 37_cluster_Teicoplanin-1843_whole
+		268 72.0 38_cluster_Teicoplanin2-1894_whole
+		268 69.4 15_cluster_CA37-800_whole
+		267 71.7 11_cluster_AregGY080-629_whole
+		267 70.9 16_cluster_CA878-868_whole
+		267 75.7 02_cluster_A47934-57_whole
+		267 72.5 41_cluster_VEG-2024_whole
+		267 70.2 18_cluster_Chloroeremomycin-1-989_whole
+		267 70.2 26_cluster_KaridNRRLB16535chlor-1382_whole
+		266 70.7 22_cluster_esnapd16-1-1149_whole
+		266 73.3 39_cluster_UK68597-1946_whole
+		266 70.3 10_cluster_ArectNRRLB16090-555_whole
+		265 71.8 08_cluster_AlurRistocetin-400_whole
+		265 72.8 03_cluster_AalbaDSM44262-122_whole
+		265 70.6 04_cluster_AazureaDSM43854-191_whole
+		265 74.3 48_cluster_WAC1424cluster109-2460_whole
+		265 72.9 55_cluster_WAC05977-2933_whole
+		265 71.7 45_cluster_WAC1376cluster143-2236_whole
+		265 72.8 09_cluster_AOHO0100074-489_whole
+		265 71.3 44_cluster_WAC1375-2153_whole
+		265 71.3 46_cluster_WAC1416cluster068-2330_whole
+		265 71.7 01_cluster_A40926-4_whole
+		264 75.4 69_cluster_MchersinaDSM44151-3585_whole
+		263 72.2 07_cluster_AkerFH1893nogabecin-367_whole
+		263 73.0 17_cluster_CA915-942_whole
+		263 73.0 51_cluster_WAC4169cluster051-2612_whole
+		263 73.0 40_cluster_Vancomycin-1982_whole
+		263 74.1 68_cluster_HdaliensisNBRC106472.cluster001-3549_whole
+		263 72.6 06_cluster_Ajap-Ristocetin-317_whole
+		263 72.6 25_cluster_JPLW01000007-1312_whole
+		263 72.6 27_cluster_KF882511-Ristocetin-1446_whole
+		263 72.6 53_cluster_WAC4197cluster073-2818_whole
+		262 78.6 70_cluster_TLI55.cluster001-3674_whole
+		260 72.3 52_cluster_WAC4182cluster089-2710_whole
+		260 77.7 34_cluster_SspDSM11171feglymcin-1726_whole
+
+Cluster 0112   length: 1
+		271 * 11_cluster_AregGY080-586_whole
+
+Cluster 0113   length: 1
+		271 * 47_cluster_WAC1420-2442_whole
+
+Cluster 0114   length: 29
+		268 * 18_cluster_Chloroeremomycin-1-987_whole
+		268 100.0 26_cluster_KaridNRRLB16535chlor-1380_whole
+		224 73.1 48_cluster_WAC1424cluster109-2462_whole
+		224 78.5 24_cluster_esnapd26-1238_whole
+		222 77.8 47_cluster_WAC1420-2437_whole
+		222 74.9 28_cluster_NcoxDSM45129-1481_whole
+		220 70.9 53_cluster_WAC4197cluster073-2816_whole
+		220 72.2 55_cluster_WAC05977-2931_whole
+		220 74.4 44_cluster_WAC1375-2151_whole
+		220 74.4 11_cluster_AregGY080-627_whole
+		220 72.2 04_cluster_AazureaDSM43854-189_whole
+		220 73.5 45_cluster_WAC1376cluster143-2238_whole
+		220 72.6 03_cluster_AalbaDSM44262-120_whole
+		220 70.0 40_cluster_Vancomycin-1980_whole
+		220 74.4 46_cluster_WAC1416cluster068-2328_whole
+		220 71.3 52_cluster_WAC4182cluster089-2712_whole
+		220 68.6 07_cluster_AkerFH1893nogabecin-365_whole
+		220 70.9 08_cluster_AlurRistocetin-402_whole
+		220 72.2 09_cluster_AOHO0100074-487_whole
+		220 71.3 25_cluster_JPLW01000007-1310_whole
+		220 71.3 27_cluster_KF882511-Ristocetin-1444_whole
+		220 71.3 06_cluster_Ajap-Ristocetin-315_whole
+		220 69.5 51_cluster_WAC4169cluster051-2614_whole
+		218 82.1 14_cluster_Balhimycin-734_whole
+		218 86.7 41_cluster_VEG-2022_whole
+		218 83.5 16_cluster_CA878-866_whole
+		218 82.6 05_cluster_AbalhimycinaFH1894-256_whole
+		213 81.1 29_cluster_pekiskomycin-1548_whole
+		213 77.0 01_cluster_A40926-6_whole
+
+Cluster 0115   length: 1
+		266 * 49_cluster_WAC1438rc4d-2501_whole
+
+Cluster 0116   length: 1
+		264 * 01_cluster_A40926-2_whole
+
+Cluster 0117   length: 1
+		256 * 56_cluster_WAC06369-2969_whole
+
+Cluster 0118   length: 1
+		251 * 10_cluster_ArectNRRLB16090-566_whole
+
+Cluster 0119   length: 2
+		250 * 37_cluster_Teicoplanin-1853_whole
+		250 100.0 38_cluster_Teicoplanin2-1900_whole
+
+Cluster 0120   length: 1
+		250 * 52_cluster_WAC4182cluster089-2677_whole
+
+Cluster 0121   length: 2
+		246 * 56_cluster_WAC06369-2949_whole
+		195 100.0 12_cluster_ArifDSM43936-1-656_whole
+
+Cluster 0122   length: 1
+		244 * 37_cluster_Teicoplanin-1809_whole
+
+Cluster 0123   length: 1
+		242 * 70_cluster_TLI55.cluster001-3625_whole
+
+Cluster 0124   length: 12
+		239 * 50_cluster_WAC01529-2559_whole
+		235 77.0 32_cluster_Ssilaceus-1-1645_whole
+		234 74.9 13_cluster_AspOK074cluster1-677_whole
+		230 81.7 35_cluster_SspNRRLS1521-1-1750_whole
+		228 77.1 31_cluster_SluteocolorNRBC13826-1602_whole
+		227 70.9 33_cluster_SspCNQ509-1684_whole
+		225 66.2 02_cluster_A47934-55_whole
+		220 70.0 62_cluster_SspCNQ329.cluster001-3205_whole
+		220 70.9 64_cluster_SspCNQ865.cluster001-3318_whole
+		220 71.4 65_cluster_SspCNT371.cluster001-3374_whole
+		220 70.9 63_cluster_SspCNQ525.cluster001-3262_whole
+		220 70.5 66_cluster_SspCNY243.cluster001-3428_whole
+
+Cluster 0125   length: 1
+		236 * 67_cluster_STLI053.cluster001-3474_whole
+
+Cluster 0126   length: 1
+		228 * 15_cluster_CA37-744_whole
+
+Cluster 0127   length: 1
+		226 * 34_cluster_SspDSM11171feglymcin-1724_whole
+
+Cluster 0128   length: 2
+		223 * 12_cluster_ArifDSM43936-1-651_whole
+		223 100.0 56_cluster_WAC06369-2944_whole
+
+Cluster 0129   length: 3
+		222 * 10_cluster_ArectNRRLB16090-553_whole
+		222 68.0 38_cluster_Teicoplanin2-1892_whole
+		221 65.2 39_cluster_UK68597-1944_whole
+
+Cluster 0130   length: 5
+		221 * 15_cluster_CA37-798_whole
+		221 82.8 21_cluster_esnapd15-1102_whole
+		221 84.6 37_cluster_Teicoplanin-1841_whole
+		220 68.6 17_cluster_CA915-940_whole
+		142 72.5 22_cluster_esnapd16-1-1147_whole
+
+Cluster 0131   length: 1
+		220 * 71_cluster_Kistamicin-3719_whole
+
+Cluster 0132   length: 1
+		219 * 15_cluster_CA37-812_whole
+
+Cluster 0133   length: 1
+		219 * 67_cluster_STLI053.cluster001-3487_whole
+
+Cluster 0134   length: 1
+		218 * 49_cluster_WAC1438rc4d-2509_whole
+
+Cluster 0135   length: 1
+		217 * 70_cluster_TLI55.cluster001-3672_whole
+
+Cluster 0136   length: 1
+		210 * 68_cluster_HdaliensisNBRC106472.cluster001-3551_whole
+
+Cluster 0137   length: 1
+		209 * 69_cluster_MchersinaDSM44151-3601_whole
+
+Cluster 0138   length: 1
+		208 * 10_cluster_ArectNRRLB16090-567_whole
+
+Cluster 0139   length: 1
+		201 * 49_cluster_WAC1438rc4d-2523_whole
+
+Cluster 0140   length: 1
+		140 * 24_cluster_esnapd26-1245_whole
+
+Cluster 0141   length: 1
+		107 * 42_cluster_WAC00631-2052_whole
+
+Cluster 0142   length: 1
+		90 * 20_cluster_Enduracidin-1060_whole
+
+Cluster 0143   length: 1
+		90 * 30_cluster_RamoEx-1565_whole
+
+Cluster 0144   length: 1
+		90 * 69_cluster_MchersinaDSM44151-3594_whole
+
+Cluster 0145   length: 1
+		90 * 67_cluster_STLI053.cluster001-3495_whole
+
+Cluster 0146   length: 1
+		63 * 36_cluster_TEG-1786_whole
+
