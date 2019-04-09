@@ -1,0 +1,1883 @@
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree01_Adomain.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree01_Adomain_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene tree 1
+gene tree is polytomic: 9 possible trees, maximum out-degree = 3
+clades and splits:  2131 3203
+split time = 111.606000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 15
+============ pareto mod: 3
+2131 x 1770 matrix
+iterations = 1
+matrix time = 1286.105000
+nAm=0.477121, duplications=109, transfers=185, losses=174
+EPSILON initialized 1.000000
+2131 x 1770 matrix
+iterations = 1
+matrix time = 167910.848000
+Matrix memory usage (MB): 3662
+Cost of a most parsimonious reconciliation: 947.000000
+Final memory usage (MB): 3662
+============ pareto mod: 3
+1065 x 1770 matrix
+iterations = 1
+matrix time = 411.357000
+nAm=0.000000, duplications=109, transfers=185, losses=174
+EPSILON initialized 1.000000
+1065 x 1770 matrix
+iterations = 1
+matrix time = 2504.092000
+Matrix memory usage (MB): 3662
+constructGraph: 915.105000 ms, 37741 mapping vertices
+count reconciliation time = 294.274000
+Number of reconciliations: 7535446824167994096200187904.000000
+symmetric median score: 29536110529528706949055160254464.000000
+asymmetric median score: 68071492925774732429842809094144.000000
+random score: 66777015751495090461194552606720.000000
+maxAvg median score: 146813941869282282502946291712.000000
+Final memory usage (MB): 3662
+
+Reading the gene trees done: 0.000000d, 0.000000h, 2.000000m, 55.000000s.
+Done: 0.000000d, 0.000000h, 2.000000m, 55.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree02_Cond.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree02_Cond_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  1783 2673
+split time = 70.745000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 10
+============ pareto mod: 3
+1783 x 1770 matrix
+iterations = 1
+matrix time = 1082.738000
+nAm=0.000000, duplications=95, transfers=150, losses=121
+EPSILON initialized 1.000000
+1783 x 1770 matrix
+iterations = 1
+matrix time = 78224.132000
+Matrix memory usage (MB): 2022
+Cost of a most parsimonious reconciliation: 761.000000
+Final memory usage (MB): 2022
+============ pareto mod: 3
+893 x 1770 matrix
+iterations = 1
+matrix time = 347.987000
+nAm=0.000000, duplications=95, transfers=150, losses=121
+EPSILON initialized 1.000000
+893 x 1770 matrix
+iterations = 1
+matrix time = 1721.364000
+Matrix memory usage (MB): 2022
+constructGraph: 609.742000 ms, 26660 mapping vertices
+count reconciliation time = 177.983000
+Number of reconciliations: 134800893748256440320.000000
+symmetric median score: 466796476514491594440704.000000
+asymmetric median score: 1018668794495412920647680.000000
+random score: 993207079593471371116544.000000
+maxAvg median score: 2701255969039479472128.000000
+Final memory usage (MB): 2022
+
+Reading the gene trees done: 0.000000d, 0.000000h, 1.000000m, 23.000000s.
+Done: 0.000000d, 0.000000h, 1.000000m, 23.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree03_PCP.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree03_PCP_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene tree 1
+gene tree is polytomic: 1601741584209375 possible trees, maximum out-degree = 5
+clades and splits:  2255 4087
+split time = 124.665000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 16
+============ pareto mod: 3
+2255 x 1770 matrix
+iterations = 1
+matrix time = 1579.070000
+nAm=15.204592, duplications=103, transfers=178, losses=132
+EPSILON initialized 1.000000
+2255 x 1770 matrix
+iterations = 1
+matrix time = 186915.421000
+Matrix memory usage (MB): 3815
+Cost of a most parsimonious reconciliation: 872.000000
+Final memory usage (MB): 3815
+============ pareto mod: 3
+1029 x 1770 matrix
+iterations = 1
+matrix time = 397.946000
+nAm=0.000000, duplications=103, transfers=178, losses=132
+EPSILON initialized 1.000000
+1029 x 1770 matrix
+iterations = 1
+matrix time = 2401.700000
+Matrix memory usage (MB): 3815
+constructGraph: 670.084000 ms, 29712 mapping vertices
+count reconciliation time = 204.193000
+Number of reconciliations: 675494124910631575313448960.000000
+symmetric median score: 2496689716849145297587822133248.000000
+asymmetric median score: 5486984933034572413900429459456.000000
+random score: 5376181128025939953225547382784.000000
+maxAvg median score: 13195606478657903842180464640.000000
+Final memory usage (MB): 3815
+
+Reading the gene trees done: 0.000000d, 0.000000h, 3.000000m, 13.000000s.
+Done: 0.000000d, 0.000000h, 3.000000m, 13.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree04_Epi.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree04_Epi_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  835 1251
+split time = 13.253000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 6
+============ pareto mod: 3
+835 x 1770 matrix
+iterations = 1
+matrix time = 504.409000
+nAm=0.000000, duplications=29, transfers=71, losses=60
+EPSILON initialized 1.000000
+835 x 1770 matrix
+iterations = 1
+matrix time = 23583.943000
+Matrix memory usage (MB): 700
+Cost of a most parsimonious reconciliation: 331.000000
+Final memory usage (MB): 700
+============ pareto mod: 3
+419 x 1770 matrix
+iterations = 1
+matrix time = 162.954000
+nAm=0.000000, duplications=29, transfers=71, losses=60
+EPSILON initialized 1.000000
+419 x 1770 matrix
+iterations = 1
+matrix time = 810.711000
+Matrix memory usage (MB): 700
+constructGraph: 279.908000 ms, 12707 mapping vertices
+count reconciliation time = 71.103000
+Number of reconciliations: 256864845824.000000
+symmetric median score: 431197495402496.000000
+asymmetric median score: 975829979095040.000000
+random score: 951962985742336.000000
+maxAvg median score: 6259388064513.717773
+Final memory usage (MB): 700
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 25.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 25.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree05_TE.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree05_TE_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene tree 1
+gene tree is polytomic: 9 possible trees, maximum out-degree = 3
+clades and splits:  239 365
+split time = 1.225000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 5
+============ pareto mod: 3
+239 x 1770 matrix
+iterations = 1
+matrix time = 144.687000
+nAm=0.477121, duplications=1, transfers=28, losses=13
+EPSILON initialized 1.000000
+239 x 1770 matrix
+iterations = 1
+matrix time = 799.384000
+Matrix memory usage (MB): 63
+Cost of a most parsimonious reconciliation: 99.000000
+Final memory usage (MB): 63
+============ pareto mod: 3
+119 x 1770 matrix
+iterations = 1
+matrix time = 45.656000
+nAm=0.000000, duplications=1, transfers=28, losses=13
+EPSILON initialized 1.000000
+119 x 1770 matrix
+iterations = 1
+matrix time = 162.904000
+Matrix memory usage (MB): 63
+constructGraph: 60.489000 ms, 3226 mapping vertices
+count reconciliation time = 12.427000
+Number of reconciliations: 14304.000000
+symmetric median score: 6638984.000000
+asymmetric median score: 14763464.000000
+random score: 14534792.000000
+maxAvg median score: 343037.463415
+Final memory usage (MB): 63
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 2.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 2.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree06_Xdomain.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree06_Xdomain_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <19>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  195 291
+split time = 0.873000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+195 x 1770 matrix
+iterations = 1
+matrix time = 118.400000
+nAm=0.000000, duplications=0, transfers=18, losses=18
+EPSILON initialized 1.000000
+195 x 1770 matrix
+iterations = 1
+matrix time = 879.050000
+Matrix memory usage (MB): 64
+Cost of a most parsimonious reconciliation: 72.000000
+Final memory usage (MB): 64
+============ pareto mod: 3
+99 x 1770 matrix
+iterations = 1
+matrix time = 38.025000
+nAm=0.000000, duplications=0, transfers=18, losses=18
+EPSILON initialized 1.000000
+99 x 1770 matrix
+iterations = 1
+matrix time = 139.581000
+Matrix memory usage (MB): 64
+constructGraph: 35.794000 ms, 1976 mapping vertices
+count reconciliation time = 5.398000
+Number of reconciliations: 80.000000
+symmetric median score: 43756.000000
+asymmetric median score: 92356.000000
+random score: 92356.000000
+maxAvg median score: 2515.314286
+Final memory usage (MB): 64
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree07_AMTFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree07_AMTFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene tree 1
+clades and splits:  15 21
+split time = 0.048000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+15 x 1770 matrix
+iterations = 1
+matrix time = 8.153000
+nAm=0.000000, duplications=0, transfers=1, losses=0
+EPSILON initialized 1.000000
+15 x 1770 matrix
+iterations = 1
+matrix time = 24.405000
+Matrix memory usage (MB): 7
+Cost of a most parsimonious reconciliation: 3.000000
+Final memory usage (MB): 7
+============ pareto mod: 3
+9 x 1770 matrix
+iterations = 1
+matrix time = 3.408000
+nAm=0.000000, duplications=0, transfers=1, losses=0
+EPSILON initialized 1.000000
+9 x 1770 matrix
+iterations = 1
+matrix time = 10.042000
+Matrix memory usage (MB): 7
+constructGraph: 1.806000 ms, 95 mapping vertices
+count reconciliation time = 0.223000
+Number of reconciliations: 1.000000
+symmetric median score: 35.000000
+asymmetric median score: 70.000000
+random score: 70.000000
+maxAvg median score: 67.000000
+Final memory usage (MB): 7
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree08_APCPFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree08_APCPFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene tree 1
+gene tree is polytomic: 3444525 possible trees, maximum out-degree = 5
+clades and splits:  2099 3459
+split time = 107.237000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 15
+============ pareto mod: 3
+2099 x 1770 matrix
+iterations = 1
+matrix time = 1366.297000
+nAm=6.060008, duplications=115, transfers=171, losses=122
+EPSILON initialized 1.000000
+2099 x 1770 matrix
+iterations = 1
+matrix time = 173335.274000
+Matrix memory usage (MB): 3678
+Cost of a most parsimonious reconciliation: 865.000000
+Final memory usage (MB): 3678
+============ pareto mod: 3
+1009 x 1770 matrix
+iterations = 1
+matrix time = 388.272000
+nAm=0.000000, duplications=115, transfers=171, losses=122
+EPSILON initialized 1.000000
+1009 x 1770 matrix
+iterations = 1
+matrix time = 2466.316000
+Matrix memory usage (MB): 3678
+constructGraph: 628.900000 ms, 27192 mapping vertices
+count reconciliation time = 189.092000
+Number of reconciliations: 5722696417138282856448.000000
+symmetric median score: 18992351502698401992015872.000000
+asymmetric median score: 42377154072414677790359552.000000
+random score: 41030472669462473037840384.000000
+maxAvg median score: 104274486552082396479488.000000
+Final memory usage (MB): 3678
+
+Reading the gene trees done: 0.000000d, 0.000000h, 2.000000m, 59.000000s.
+Done: 0.000000d, 0.000000h, 2.000000m, 59.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree09_ATEFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree09_ATEFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene tree 1
+gene tree is polytomic: 9 possible trees, maximum out-degree = 3
+clades and splits:  71 113
+split time = 0.248000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+71 x 1770 matrix
+iterations = 1
+matrix time = 43.895000
+nAm=0.477121, duplications=0, transfers=5, losses=6
+EPSILON initialized 1.000000
+71 x 1770 matrix
+iterations = 1
+matrix time = 158.176000
+Matrix memory usage (MB): 19
+Cost of a most parsimonious reconciliation: 21.000000
+Final memory usage (MB): 19
+============ pareto mod: 3
+35 x 1770 matrix
+iterations = 1
+matrix time = 13.253000
+nAm=0.000000, duplications=0, transfers=5, losses=6
+EPSILON initialized 1.000000
+35 x 1770 matrix
+iterations = 1
+matrix time = 43.434000
+Matrix memory usage (MB): 19
+constructGraph: 19.179000 ms, 1110 mapping vertices
+count reconciliation time = 4.038000
+Number of reconciliations: 74.000000
+symmetric median score: 10488.000000
+asymmetric median score: 26441.000000
+random score: 23765.000000
+maxAvg median score: 2379.300000
+Final memory usage (MB): 19
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree10_CondAFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree10_CondAFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  1735 2601
+split time = 65.638000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 10
+============ pareto mod: 3
+1735 x 1770 matrix
+iterations = 1
+matrix time = 1033.959000
+nAm=0.000000, duplications=87, transfers=154, losses=97
+EPSILON initialized 1.000000
+1735 x 1770 matrix
+iterations = 1
+matrix time = 55198.431000
+Matrix memory usage (MB): 1632
+Cost of a most parsimonious reconciliation: 733.000000
+Final memory usage (MB): 1632
+============ pareto mod: 3
+869 x 1770 matrix
+iterations = 1
+matrix time = 335.593000
+nAm=0.000000, duplications=87, transfers=154, losses=97
+EPSILON initialized 1.000000
+869 x 1770 matrix
+iterations = 1
+matrix time = 1681.516000
+Matrix memory usage (MB): 1632
+constructGraph: 561.851000 ms, 26388 mapping vertices
+count reconciliation time = 183.334000
+Number of reconciliations: 12629225516109398016.000000
+symmetric median score: 39805462826948522672128.000000
+asymmetric median score: 89492220254314234380288.000000
+random score: 86859812664268350816256.000000
+maxAvg median score: 256622139953340940288.000000
+Final memory usage (MB): 1632
+
+Reading the gene trees done: 0.000000d, 0.000000h, 1.000000m, 0.000000s.
+Done: 0.000000d, 0.000000h, 1.000000m, 0.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree11_CondPCPFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree11_CondPCPFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree12_CtermCOM.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree12_CtermCOM_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <34>
+Gene tree 1
+gene tree is polytomic: 250640861625 possible trees, maximum out-degree = 7
+clades and splits:  623 5169
+split time = 8.624000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 6
+============ pareto mod: 3
+623 x 1770 matrix
+iterations = 1
+matrix time = 1613.475000
+nAm=10.921931, duplications=3, transfers=11, losses=13
+EPSILON initialized 1.000000
+623 x 1770 matrix
+iterations = 1
+matrix time = 11432.170000
+Matrix memory usage (MB): 202
+Cost of a most parsimonious reconciliation: 52.000000
+Final memory usage (MB): 202
+============ pareto mod: 3
+91 x 1770 matrix
+iterations = 1
+matrix time = 34.884000
+nAm=0.000000, duplications=3, transfers=11, losses=13
+EPSILON initialized 1.000000
+91 x 1770 matrix
+iterations = 1
+matrix time = 143.662000
+Matrix memory usage (MB): 202
+constructGraph: 60.555000 ms, 3028 mapping vertices
+count reconciliation time = 13.890000
+Number of reconciliations: 13140.000000
+symmetric median score: 5563644.000000
+asymmetric median score: 12073488.000000
+random score: 11491479.000000
+maxAvg median score: 505667.826087
+Final memory usage (MB): 202
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 13.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 13.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree13_ECondFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree13_ECondFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  475 711
+split time = 4.292000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 5
+============ pareto mod: 3
+475 x 1770 matrix
+iterations = 1
+matrix time = 278.585000
+nAm=0.000000, duplications=9, transfers=43, losses=39
+EPSILON initialized 1.000000
+475 x 1770 matrix
+iterations = 1
+matrix time = 7426.289000
+Matrix memory usage (MB): 291
+Cost of a most parsimonious reconciliation: 186.000000
+Final memory usage (MB): 291
+============ pareto mod: 3
+239 x 1770 matrix
+iterations = 1
+matrix time = 92.059000
+nAm=0.000000, duplications=9, transfers=43, losses=39
+EPSILON initialized 1.000000
+239 x 1770 matrix
+iterations = 1
+matrix time = 415.761000
+Matrix memory usage (MB): 291
+constructGraph: 136.118000 ms, 6783 mapping vertices
+count reconciliation time = 27.366000
+Number of reconciliations: 74016960.000000
+symmetric median score: 74682229248.000000
+asymmetric median score: 168989108448.000000
+random score: 165104016480.000000
+maxAvg median score: 1954159129.756098
+Final memory usage (MB): 291
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 8.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 8.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree14_ECtermCOMFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree14_ECtermCOMFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <34>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  163 243
+split time = 0.672000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+163 x 1770 matrix
+iterations = 1
+matrix time = 95.279000
+nAm=0.000000, duplications=5, transfers=10, losses=7
+EPSILON initialized 1.000000
+163 x 1770 matrix
+iterations = 1
+matrix time = 665.935000
+Matrix memory usage (MB): 51
+Cost of a most parsimonious reconciliation: 47.000000
+Final memory usage (MB): 51
+============ pareto mod: 3
+83 x 1770 matrix
+iterations = 1
+matrix time = 31.673000
+nAm=0.000000, duplications=5, transfers=10, losses=7
+EPSILON initialized 1.000000
+83 x 1770 matrix
+iterations = 1
+matrix time = 115.954000
+Matrix memory usage (MB): 51
+constructGraph: 33.456000 ms, 1692 mapping vertices
+count reconciliation time = 5.028000
+Number of reconciliations: 60.000000
+symmetric median score: 22618.000000
+asymmetric median score: 48508.000000
+random score: 47258.000000
+maxAvg median score: 2428.736842
+Final memory usage (MB): 51
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree15_MT.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree15_MT_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene tree 1
+clades and splits:  31 45
+split time = 0.082000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+31 x 1770 matrix
+iterations = 1
+matrix time = 17.396000
+nAm=0.000000, duplications=0, transfers=5, losses=0
+EPSILON initialized 1.000000
+31 x 1770 matrix
+iterations = 1
+matrix time = 57.580000
+Matrix memory usage (MB): 10
+Cost of a most parsimonious reconciliation: 15.000000
+Final memory usage (MB): 10
+============ pareto mod: 3
+17 x 1770 matrix
+iterations = 1
+matrix time = 6.549000
+nAm=0.000000, duplications=0, transfers=5, losses=0
+EPSILON initialized 1.000000
+17 x 1770 matrix
+iterations = 1
+matrix time = 19.997000
+Matrix memory usage (MB): 10
+constructGraph: 5.301000 ms, 270 mapping vertices
+count reconciliation time = 0.941000
+Number of reconciliations: 8.000000
+symmetric median score: 264.000000
+asymmetric median score: 548.000000
+random score: 544.000000
+maxAvg median score: 104.800000
+Final memory usage (MB): 10
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree16_MTPCPFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree16_MTPCPFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene tree 1
+clades and splits:  15 21
+split time = 0.060000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+15 x 1770 matrix
+iterations = 1
+matrix time = 9.047000
+nAm=0.000000, duplications=0, transfers=1, losses=0
+EPSILON initialized 1.000000
+15 x 1770 matrix
+iterations = 1
+matrix time = 25.563000
+Matrix memory usage (MB): 7
+Cost of a most parsimonious reconciliation: 3.000000
+Final memory usage (MB): 7
+============ pareto mod: 3
+9 x 1770 matrix
+iterations = 1
+matrix time = 3.336000
+nAm=0.000000, duplications=0, transfers=1, losses=0
+EPSILON initialized 1.000000
+9 x 1770 matrix
+iterations = 1
+matrix time = 10.015000
+Matrix memory usage (MB): 7
+constructGraph: 1.644000 ms, 88 mapping vertices
+count reconciliation time = 0.214000
+Number of reconciliations: 1.000000
+symmetric median score: 31.500000
+asymmetric median score: 63.000000
+random score: 63.000000
+maxAvg median score: 60.000000
+Final memory usage (MB): 7
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree17_NtermCOM.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree17_NtermCOM_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene tree 1
+gene tree is polytomic: 18840787496015625 possible trees, maximum out-degree = 6
+clades and splits:  783 2961
+split time = 11.927000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 6
+============ pareto mod: 3
+783 x 1770 matrix
+iterations = 1
+matrix time = 1006.483000
+nAm=16.275099, duplications=7, transfers=42, losses=42
+EPSILON initialized 1.000000
+783 x 1770 matrix
+iterations = 1
+matrix time = 15094.522000
+Matrix memory usage (MB): 394
+Cost of a most parsimonious reconciliation: 182.000000
+Final memory usage (MB): 394
+============ pareto mod: 3
+225 x 1770 matrix
+iterations = 1
+matrix time = 85.969000
+nAm=0.000000, duplications=7, transfers=42, losses=42
+EPSILON initialized 1.000000
+225 x 1770 matrix
+iterations = 1
+matrix time = 361.164000
+Matrix memory usage (MB): 394
+constructGraph: 80.944000 ms, 4377 mapping vertices
+count reconciliation time = 14.558000
+Number of reconciliations: 7542.000000
+symmetric median score: 9236370.000000
+asymmetric median score: 19209408.000000
+random score: 19180911.000000
+maxAvg median score: 214273.517241
+Final memory usage (MB): 394
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 16.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 16.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree18_PCPCondFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree18_PCPCondFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <23>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <30>
+Gene tree 1
+gene tree is polytomic: 8505 possible trees, maximum out-degree = 6
+clades and splits:  731 1887
+split time = 10.368000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 6
+============ pareto mod: 3
+731 x 1770 matrix
+iterations = 1
+matrix time = 683.424000
+nAm=3.452553, duplications=67, transfers=47, losses=21
+EPSILON initialized 1.000000
+731 x 1770 matrix
+iterations = 1
+matrix time = 7335.798000
+Matrix memory usage (MB): 312
+Cost of a most parsimonious reconciliation: 296.000000
+Final memory usage (MB): 312
+============ pareto mod: 3
+313 x 1770 matrix
+iterations = 1
+matrix time = 120.680000
+nAm=0.000000, duplications=67, transfers=47, losses=21
+EPSILON initialized 1.000000
+313 x 1770 matrix
+iterations = 1
+matrix time = 425.964000
+Matrix memory usage (MB): 312
+constructGraph: 215.869000 ms, 10464 mapping vertices
+count reconciliation time = 60.777000
+Number of reconciliations: 5222400.000000
+symmetric median score: 3442166272.000000
+asymmetric median score: 7872592384.000000
+random score: 7770727168.000000
+maxAvg median score: 58634385.723077
+Final memory usage (MB): 312
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 9.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 9.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree19_PCPEFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree19_PCPEFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <34>
+Gene not taken into account (not in S) <34>
+Gene tree 1
+gene tree is polytomic: 295245 possible trees, maximum out-degree = 4
+clades and splits:  875 1425
+split time = 14.676000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 6
+============ pareto mod: 3
+875 x 1770 matrix
+iterations = 1
+matrix time = 560.530000
+nAm=4.993061, duplications=15, transfers=112, losses=39
+EPSILON initialized 1.000000
+875 x 1770 matrix
+iterations = 1
+matrix time = 20268.785000
+Matrix memory usage (MB): 692
+Cost of a most parsimonious reconciliation: 405.000000
+Final memory usage (MB): 692
+============ pareto mod: 3
+415 x 1770 matrix
+iterations = 1
+matrix time = 163.026000
+nAm=0.000000, duplications=15, transfers=112, losses=39
+EPSILON initialized 1.000000
+415 x 1770 matrix
+iterations = 1
+matrix time = 797.477000
+Matrix memory usage (MB): 692
+constructGraph: 168.210000 ms, 8398 mapping vertices
+count reconciliation time = 49.006000
+Number of reconciliations: 53955624903376896.000000
+symmetric median score: 64007256364007030784.000000
+asymmetric median score: 141136155666869649408.000000
+random score: 133511219139311566848.000000
+maxAvg median score: 835102499045950080.000000
+Final memory usage (MB): 692
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 22.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 22.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree20_PCPTEFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree20_PCPTEFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <20>
+Gene not taken into account (not in S) <30>
+Gene not taken into account (not in S) <34>
+Gene tree 1
+clades and splits:  19 27
+split time = 0.060000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+19 x 1770 matrix
+iterations = 1
+matrix time = 10.408000
+nAm=0.000000, duplications=0, transfers=2, losses=2
+EPSILON initialized 1.000000
+19 x 1770 matrix
+iterations = 1
+matrix time = 31.312000
+Matrix memory usage (MB): 8
+Cost of a most parsimonious reconciliation: 8.000000
+Final memory usage (MB): 8
+============ pareto mod: 3
+11 x 1770 matrix
+iterations = 1
+matrix time = 4.102000
+nAm=0.000000, duplications=0, transfers=2, losses=2
+EPSILON initialized 1.000000
+11 x 1770 matrix
+iterations = 1
+matrix time = 12.002000
+Matrix memory usage (MB): 8
+constructGraph: 4.495000 ms, 305 mapping vertices
+count reconciliation time = 0.824000
+Number of reconciliations: 1.000000
+symmetric median score: 93.000000
+asymmetric median score: 186.000000
+random score: 186.000000
+maxAvg median score: 45.750000
+Final memory usage (MB): 8
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree21_PCPXFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree21_PCPXFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <19>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <22>
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene tree 1
+gene tree is polytomic: 8287972701461578125 possible trees, maximum out-degree = 11
+clades and splits:  4467 263481
+split time = 555.024000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 114
+============ pareto mod: 3
+4467 x 1770 matrix
+iterations = 1
+matrix time = 79756.575000
+nAm=18.441327, duplications=0, transfers=17, losses=18
+EPSILON initialized 1.000000
+4467 x 1770 matrix
+iterations = 1
+matrix time = 423530.997000
+Matrix memory usage (MB): 1406
+Cost of a most parsimonious reconciliation: 69.000000
+Final memory usage (MB): 1406
+============ pareto mod: 3
+99 x 1770 matrix
+iterations = 1
+matrix time = 37.797000
+nAm=0.000000, duplications=0, transfers=17, losses=18
+EPSILON initialized 1.000000
+99 x 1770 matrix
+iterations = 1
+matrix time = 128.381000
+Matrix memory usage (MB): 1406
+constructGraph: 37.426000 ms, 2264 mapping vertices
+count reconciliation time = 7.311000
+Number of reconciliations: 108.000000
+symmetric median score: 50079.000000
+asymmetric median score: 109377.000000
+random score: 102522.000000
+maxAvg median score: 3441.833333
+Final memory usage (MB): 1406
+
+Reading the gene trees done: 0.000000d, 0.000000h, 8.000000m, 24.000000s.
+Done: 0.000000d, 0.000000h, 8.000000m, 24.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree22_XAFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree22_XAFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <19>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  71 105
+split time = 0.219000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+71 x 1770 matrix
+iterations = 1
+matrix time = 41.130000
+nAm=0.000000, duplications=0, transfers=6, losses=3
+EPSILON initialized 1.000000
+71 x 1770 matrix
+iterations = 1
+matrix time = 161.864000
+Matrix memory usage (MB): 20
+Cost of a most parsimonious reconciliation: 21.000000
+Final memory usage (MB): 20
+============ pareto mod: 3
+37 x 1770 matrix
+iterations = 1
+matrix time = 14.059000
+nAm=0.000000, duplications=0, transfers=6, losses=3
+EPSILON initialized 1.000000
+37 x 1770 matrix
+iterations = 1
+matrix time = 46.406000
+Matrix memory usage (MB): 20
+constructGraph: 12.742000 ms, 685 mapping vertices
+count reconciliation time = 1.908000
+Number of reconciliations: 6.000000
+symmetric median score: 1136.000000
+asymmetric median score: 2410.000000
+random score: 2372.000000
+maxAvg median score: 256.000000
+Final memory usage (MB): 20
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+
+==== C03 ====
+['ecceTERA_linux64', 'species.file=../stree09-WAGurcCoal-combined.renamed.tree', 'gene.file=tree23_XTEFill.tree', 'resolve.trees=1', 'print.newick=1', 'verbose=true', 'print.info=true', 'print.reconciliations=1', 'output.prefix=tree23_XTEFill_C03', 'compute.TD=false', 'pareto.mod=3', 'suboptimal.epsilon=1', 'real.epsilon=1']
+ecceTERA, version 1.2.4
+1 gene trees
+Computing the dated subdivision done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+leaves and nodes: 59 117
+Gene not taken into account (not in S) <36>
+Gene not taken into account (not in S) <21>
+Gene not taken into account (not in S) <16>
+Gene not taken into account (not in S) <41>
+Gene not taken into account (not in S) <24>
+Gene not taken into account (not in S) <15>
+Gene not taken into account (not in S) <17>
+Gene not taken into account (not in S) <37>
+Gene not taken into account (not in S) <38>
+Gene tree 1
+gene tree is polytomic: 3 possible trees, maximum out-degree = 3
+clades and splits:  119 177
+split time = 0.416000
+Computing ALE done: 0.000000d, 0.000000h, 0.000000m, 0.000000s.
+Computing ALE memory usage (MB): 4
+============ pareto mod: 3
+119 x 1770 matrix
+iterations = 1
+matrix time = 69.831000
+nAm=0.000000, duplications=0, transfers=14, losses=4
+EPSILON initialized 1.000000
+119 x 1770 matrix
+iterations = 1
+matrix time = 342.304000
+Matrix memory usage (MB): 33
+Cost of a most parsimonious reconciliation: 46.000000
+Final memory usage (MB): 33
+============ pareto mod: 3
+61 x 1770 matrix
+iterations = 1
+matrix time = 23.354000
+nAm=0.000000, duplications=0, transfers=14, losses=4
+EPSILON initialized 1.000000
+61 x 1770 matrix
+iterations = 1
+matrix time = 82.796000
+Matrix memory usage (MB): 33
+constructGraph: 17.676000 ms, 1022 mapping vertices
+count reconciliation time = 3.087000
+Number of reconciliations: 16.000000
+symmetric median score: 3988.000000
+asymmetric median score: 8452.000000
+random score: 8452.000000
+maxAvg median score: 454.888889
+Final memory usage (MB): 33
+
+Reading the gene trees done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+Done: 0.000000d, 0.000000h, 0.000000m, 1.000000s.
+
